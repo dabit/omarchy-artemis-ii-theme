@@ -1,6 +1,6 @@
 # Artemis II
 
-A dark theme for [Omarchy](https://omarchy.com) inspired by the view of Earth from the Artemis II spacecraft — deep black backgrounds with vivid, high-contrast colors that echo the glow of instruments against the void of space.
+A dark theme for [Omarchy](https://omarchy.com) inspired by the view of Earth from the Artemis II spacecraft; deep black backgrounds with vivid, high-contrast colors that echo the glow of instruments against the void of space.
 
 ![Background](backgrounds/peek-a-boo.jpg)
 
