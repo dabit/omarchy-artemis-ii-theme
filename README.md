@@ -49,3 +49,9 @@ A dark theme for [Omarchy](https://omarchy.com) inspired by the view of Earth fr
 - Chromium
 - Vencord (Discord)
 - Zellij
+
+## Screenshots
+
+![btop](assets/btop.png)
+
+![About](assets/about.png)
